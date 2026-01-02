@@ -120,7 +120,7 @@ Perfect for social media managers and agencies!
 ---
 
 ## Quick Reference
-
+ 
 ### Your MongoDB URI (already set):
 ```
 mongodb+srv://Michael:Juicewrld999@cluster0.k2hrp.mongodb.net/postplanner
@@ -182,3 +182,6 @@ com.postplanner.app
 **Full details in [DEPLOY_RENDER.md](DEPLOY_RENDER.md)**
 
 Good luck! 🎉
+
+
+git remote add origin https://github.com/Pymich999/manager.git

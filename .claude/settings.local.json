@@ -5,7 +5,13 @@
       "Bash(npm init:*)",
       "Bash(npm install:*)",
       "Bash(npx create-expo-app@latest:*)",
-      "Bash(npx expo install:*)"
+      "Bash(npx expo install:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(eas build:*)",
+      "Bash(npx expo prebuild:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []

@@ -129,6 +129,9 @@ manager/
 - Filter posts by client/platform/date
 - Beautiful post cards with client info
 - Pull-to-refresh
+- **One-Click Post Workflow**: 
+  - Automatically copies caption to clipboard
+  - Deep-links directly to the target social media app (Instagram, Twitter, etc.)
 
 ### Calendar View
 - Interactive calendar with marked dates
